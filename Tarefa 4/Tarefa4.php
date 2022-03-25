@@ -34,9 +34,9 @@ for ($i = 0;$i < $length; $i++) {
 return "A string fornecida possui parênteses, colchetes e chaves válidas";
 }
 
-$string = "[()]";
+$stringTeste = "[()]";
 
-echo $string . "  -  " . Valida($string); 
+echo $stringTeste . "  -  " . Valida($stringTeste); 
 
 
 ?>
