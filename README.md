@@ -8,3 +8,9 @@ Este repositório tem a finaldiade de apresentar as respostas ao teste teórico 
 para a vaga de analista de TI.
 LINK PARA O TESTE PRÁTICO: https://github.com/ndserra/V1
 OBS: “Para as respostas do teste pratico, coloquei tudo no github contendo um projeto, um repositório que pode ser clonado e as instruções na forma de issues (solveds e unsolveds), todas relacionadas aos histories do projeto. No repositorio, cada pasta recebeu o nome de uma issue numerada de 1 a 10, relacionadas ao numero da questão do teste (Exemplo: Questão 1 = Issue githunb 1 = pasta “Tarefa 1” no repositório. 
+
+Não foi possível criar o CRUD das tarefas 7 e 8 e o script para manipulação de string da tarefa 9 pois fui acionado a noite na empresa e precisei interromper as atividades.
+
+Se possível gostaria de tentar.
+
+Gratidão 🙏
